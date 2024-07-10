@@ -1,0 +1,16 @@
+SQL Awesome chocolates Questions to answer
+
+1) Which are the top 5 Products according volume of the sale
+
+2) What is Category wise avg price per box
+
+3) Which region has lowest orders
+
+4) What is avg order value in APAC region
+
+5) What are top 2 favorite categories in America
+
+6) Which team is best performing team
+
+7) Which country has highest consumption of almond choco
+
